@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="WebApiAM@localhost" uuid="484d4815-01f7-4125-a723-cf23839f34da">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/WebApiAM</jdbc-url>
+      <driver-properties>
+        <property name="autoReconnect" value="true" />
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+        <property name="characterEncoding" value="utf8" />
+        <property name="characterSetResults" value="utf8" />
+        <property name="yearIsDateType" value="false" />
+        <property name="lower_case_table_names" value="1" />
+        <property name="readOnlyPropagatesToServer" value="false" />
+        <property name="cachePrepStmts" value="true" />
+        <property name="prepStmtCacheSize" value="250" />
+        <property name="prepStmtCacheSqlLimit" value="2048" />
+        <property name="useServerPrepStmts" value="true" />
+        <property name="default_storage_engine" value="1" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
